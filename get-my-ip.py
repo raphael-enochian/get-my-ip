@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+# Raphael Enochian, September 2015
 # Queries DDG for your IP address.
 import requests
 
